@@ -1,0 +1,21 @@
+SupplierID,SupplierName,PrimaryCategoryID,Region,RiskRating,IsContracted
+SUP-001,Apex Systems Ltd,CAT-04,KwaZulu-Natal,Medium,False
+SUP-002,BlueWave Technologies,CAT-05,Western Cape,Low,True
+SUP-003,Zenith Office Solutions,CAT-05,Gauteng,Low,True
+SUP-004,Vanguard Facility Maintenance,CAT-04,Gauteng,Low,True
+SUP-005,Meridian Global Freight,CAT-02,Eastern Cape,Low,True
+SUP-006,Solomon & Harris Legal,CAT-01,Gauteng,High,True
+SUP-007,Alpha Prime Consulting,CAT-03,Eastern Cape,Low,False
+SUP-008,OmniFleet Services,CAT-04,Gauteng,Medium,True
+SUP-009,Nexus Hardware Hub,CAT-07,Gauteng,Medium,True
+SUP-010,Delta Clean & Maintenance,CAT-03,Western Cape,Low,True
+SUP-011,Pioneer Business Advisory,CAT-06,Gauteng,Medium,False
+SUP-012,RapidTransit Couriers,CAT-05,KwaZulu-Natal,Low,True
+SUP-013,SecureCloud Networks,CAT-04,Gauteng,Low,True
+SUP-014,Titanium Fuel Corp,CAT-02,Western Cape,High,True
+SUP-015,Metro Stationers,CAT-06,KwaZulu-Natal,Medium,True
+SUP-016,Epsilon Strategy Group,CAT-04,Gauteng,Low,True
+SUP-017,Summit Building Works,CAT-03,KwaZulu-Natal,Low,True
+SUP-018,Veritas Audit Partners,CAT-08,Gauteng,Medium,True
+SUP-019,Kalahari Logistics,CAT-07,Western Cape,Medium,True
+SUP-020,InfiniTech Solutions,CAT-05,Western Cape,Medium,True

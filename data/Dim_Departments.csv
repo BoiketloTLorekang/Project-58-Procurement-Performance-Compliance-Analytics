@@ -1,0 +1,6 @@
+DepartmentID,BusinessUnit,CostCenter
+DEPT-101,Information Technology,CC-IT-901
+DEPT-102,Finance & Procurement,CC-FIN-402
+DEPT-103,Operations & Logistics,CC-OPS-305
+DEPT-104,Facilities Management,CC-FAC-201
+DEPT-105,Legal & Governance,CC-LEG-104

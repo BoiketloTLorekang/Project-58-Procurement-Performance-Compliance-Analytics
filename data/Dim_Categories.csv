@@ -1,0 +1,9 @@
+CategoryID,MajorGroup,SubCategory
+CAT-01,IT Hardware & Software,Enterprise Servers & Licensing
+CAT-02,IT Hardware & Software,End-User Computing (Laptops/Peripherals)
+CAT-03,Facilities & Infrastructure,HVAC & Facility Maintenance
+CAT-04,Facilities & Infrastructure,Office Supplies & Furniture
+CAT-05,Professional Services,Management & Financial Consulting
+CAT-06,Professional Services,Legal & Compliance Auditing
+CAT-07,Logistics & Fleet,Freight & Courier Services
+CAT-08,Logistics & Fleet,Fleet Fuel & Maintenance
